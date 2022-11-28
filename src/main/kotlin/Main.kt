@@ -11,7 +11,7 @@ fun main(args: Array<String>) {
     val side3 = readln().toInt()
 
     println("Объём такого параллелепипеда:")
-    val perimeter = side1 * side2 * side3
+    val volume = side1 * side2 * side3
 
-    println(perimeter)
+    println(volume)
 }
