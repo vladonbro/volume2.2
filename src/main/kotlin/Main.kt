@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     //Эта программа считает объём параллелепипеда.
 
     println("Введите длину:")
